@@ -117,8 +117,4 @@ int main() {
 
     return 0;
 }
-
-    // Exemplo:
-    // printf("A cidade vencedora é: %s\n", cidadeVencedora);
-
   
